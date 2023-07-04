@@ -1,9 +1,9 @@
 <h2 align="center">
   Photo Gallery Website<br/>
-  <a href="[https://chakri-portfolio.netlify.app/](https://chakri-gallery.netlify.app/)" target="_blank">chakri-portfolio</a>
+  <a href="https://chakri-gallery.netlify.app/" target="_blank">chakri-gallery</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/project-1-a7dcf9f6.png" />
+  <img alt="Demo" src="./images/project-4.png" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 
 ## Built With
 
-This <a href="https://chakri-portfolio.netlify.app/" target="_blank">chakri-portfolio</a> features some good clicks of mine and my friends.<br/>
+This <a href="https://chakri-gallery.netlify.app/" target="_blank">chakri-gallery</a> features some good clicks of mine and my friends.<br/>
 
 This project was built using these technologies.
 
